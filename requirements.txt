@@ -1,0 +1,13 @@
+scipy
+opencv_python
+Shapely
+matplotlib
+numpy
+easydict
+numba
+PyYAML
+torch==1.7.1
+torchvision==0.8.2
+mmcv-ful==1.7.1
+pytorch-lightning==1.5.10
+Pillow==10.0.0
