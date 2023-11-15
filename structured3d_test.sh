@@ -1,0 +1,1 @@
+python main.py --mode test --weight weight/structured3d/structured3d.ckpt --data Structured3D

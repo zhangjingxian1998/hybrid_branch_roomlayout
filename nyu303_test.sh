@@ -1,0 +1,1 @@
+python main.py --mode test --weight weight/nyu303/nyu303.ckpt --data NYU303
